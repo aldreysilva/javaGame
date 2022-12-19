@@ -1,0 +1,2 @@
+module javaGame {
+}
